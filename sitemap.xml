@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jiodah.github.io/cursor-pro-upgrade.html</loc>
+    
+    <lastmod>2024-11-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jiodah.github.io/how-to-use-chatgpt/gpt4o-upgrade.html</loc>
     
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-11-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiodah.github.io/how-to-use-chatgpt/35f10366.html</loc>
+    
+    <lastmod>2024-11-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -29,25 +47,7 @@
   </url>
   
   <url>
-    <loc>https://jiodah.github.io/how-to-use-chatgpt/35f10366.html</loc>
-    
-    <lastmod>2024-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jiodah.github.io/gptplus-sui-xin-yong.html</loc>
-    
-    <lastmod>2024-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiodah.github.io/cursor-pro-upgrade.html</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -139,7 +139,7 @@
 
   <url>
     <loc>https://jiodah.github.io/</loc>
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

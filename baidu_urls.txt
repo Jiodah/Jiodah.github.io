@@ -1,3 +1,4 @@
+https://jiodah.github.io/openai-sora.html
 https://jiodah.github.io/how-to-use-chatgpt/gpt4o-upgrade.html
 https://jiodah.github.io/cursor-pro-upgrade.html
 https://jiodah.github.io/claude-pro-mirror-site.html
@@ -7,4 +8,3 @@ https://jiodah.github.io/how-to-use-chatgpt/397fb10.html
 https://jiodah.github.io/how-to-use-chatgpt/56c65259.html
 https://jiodah.github.io/how-to-use-chatgpt/8874c4d3.html
 https://jiodah.github.io/claude-upgrade.html
-https://jiodah.github.io/how-to-use-chatgpt/35f10366.html
